@@ -103,7 +103,9 @@
   - Designed a responsive UI with input validation, error highlighting, and reset functionality.
 
 🎥 **Video Demo:**
-[![Watch Sudoku Arena Demo](https://img.shields.io/badge/Click_to_Watch-Sudoku_Arena_Demo-blue?style=for-the-badge&logo=youtube)](asserts/sudoku-demo.mp4)
+<p align="center">
+  <img src="asserts/sudoku-demo.gif" width="800" alt="Sudoku Arena Demo"/>
+</p>
 
 - **📊 Repository Status:** ![Repo Size](https://img.shields.io/github/repo-size/Anusuya-Ramu/Sudoku-Arena) ![Stars](https://img.shields.io/github/stars/Anusuya-Ramu/Sudoku-Arena)
 - **🔗 Links:** [GitHub Repository](https://github.com/Anusuya-Ramu/Sudoku-Arena)
