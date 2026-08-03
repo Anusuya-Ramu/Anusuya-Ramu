@@ -161,13 +161,11 @@
 
 ## 📜 Certifications
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python_for_Data_Science-NPTEL-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Programming_in_C-NPTEL-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DBMS-NPTEL-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Java_Programming-Infosys_Springboard-brightgreen?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Programming_in_Python-Infosys_Springboard-brightgreen?style=for-the-badge"/>
-</p>
+* **Python for Data Science** – NPTEL
+* **Programming in C** – NPTEL
+* **DBMS** – NPTEL
+* **Java Programming** – Infosys Springboard
+* **Programming in Python** – Infosys Springboard
 
 ---
 
