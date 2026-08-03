@@ -104,7 +104,7 @@
 
 🎥 **Video Demo:**
 <p align="center">
-  <img src="asserts/sudoku-demo.gif" width="800" alt="Sudoku Arena Demo"/>
+  <img src="assets/sudoku-demo.gif" width="800" alt="Sudoku Arena Demo"/>
 </p>
 
 - **📊 Repository Status:** ![Repo Size](https://img.shields.io/github/repo-size/Anusuya-Ramu/Sudoku-Arena) ![Stars](https://img.shields.io/github/stars/Anusuya-Ramu/Sudoku-Arena)
@@ -121,11 +121,11 @@
 
 📸 **Preview:**
 <p align="center">
-  <img src="asserts/watchsmith-preview1.jpeg" width="48%" alt="Watchsmith Preview 1"/>
-  <img src="asserts/watchsmith-preview2.jpeg" width="48%" alt="Watchsmith Preview 2"/>
+  <img src="assets/watchsmith-preview1.jpeg" width="48%" alt="Watchsmith Preview 1"/>
+  <img src="assets/watchsmith-preview2.jpeg" width="48%" alt="Watchsmith Preview 2"/>
 </p>
 <p align="center">
-  <img src="asserts/watchsmith-preview3.jpeg" width="48%" alt="Watchsmith Preview 3"/>
+  <img src="assets/watchsmith-preview3.jpeg" width="48%" alt="Watchsmith Preview 3"/>
 </p>
 
 - **📊 Repository Status:** ![Repo Size](https://img.shields.io/github/repo-size/Anusuya-Ramu/Watch_Mini_Project) ![Stars](https://img.shields.io/github/stars/Anusuya-Ramu/Watch_Mini_Project)
