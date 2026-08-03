@@ -105,7 +105,7 @@
 🎥 **Video Demo:**
 <p align="center">
   <video width="800" controls autoplay muted loop>
-    <source src="assets/sudoku-demo.mp4" type="video/mp4">
+    <source src="asserts/sudoku-demo.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>
@@ -124,8 +124,8 @@
 
 📸 **Preview:**
 <p align="center">
-  <img src="assets/watchsmith-preview1.jpeg" width="48%" alt="Watchsmith Preview 1"/>
-  <img src="assets/watchsmith-preview2.jpeg" width="48%" alt="Watchsmith Preview 2"/>
+  <img src="asserts/watchsmith-preview1.jpeg" width="48%" alt="Watchsmith Preview 1"/>
+  <img src="asserts/watchsmith-preview2.jpeg" width="48%" alt="Watchsmith Preview 2"/>
 </p>
 <p align="center">
   <img src="assets/watchsmith-preview3.jpeg" width="48%" alt="Watchsmith Preview 3"/>
