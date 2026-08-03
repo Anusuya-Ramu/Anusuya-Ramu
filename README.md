@@ -101,9 +101,12 @@
   - Developed an interactive Sudoku game with dynamic grid generation and validation logic.
   - Integrated Firebase for real-time storage of user progress and scores.
   - Designed a responsive UI with input validation, error highlighting, and reset functionality.
-- 📸 **Preview**
+- 🎥 **Video Demo**
   <p align="center">
-  <img src="assets/home.png" width="800"/>
+  <video width="800" controls>
+    <source src="assets/sudoku-demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
   </p>
 - 📊 **Repository Status:** ![Repo Size](https://img.shields.io/github/repo-size/Anusuya-Ramu/Sudoku-Arena)
   ![Stars](https://img.shields.io/github/stars/Anusuya-Ramu/Sudoku-Arena)
@@ -119,7 +122,7 @@
   - Optimized website responsiveness for different screen sizes.
 - 📸 **Preview**
   <p align="center">
-  <img src="assets/home.png" width="800"/>
+  <img src="assets/watchsmith-preview1.jpeg" width="800" alt="Watchsmith Preview"/>
   </p>
 - 📊 **Repository Status:** ![Repo Size](https://img.shields.io/github/repo-size/Anusuya-Ramu/Watch_Mini_Project)
   ![Stars](https://img.shields.io/github/stars/Anusuya-Ramu/Watch_Mini_Project)
