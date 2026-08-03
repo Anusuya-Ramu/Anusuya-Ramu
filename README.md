@@ -103,12 +103,7 @@
   - Designed a responsive UI with input validation, error highlighting, and reset functionality.
 
 🎥 **Video Demo:**
-<p align="center">
-  <video width="800" controls autoplay muted loop>
-    <source src="asserts/sudoku-demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+[![Watch Sudoku Arena Demo](https://img.shields.io/badge/Click_to_Watch-Sudoku_Arena_Demo-blue?style=for-the-badge&logo=youtube)](asserts/sudoku-demo.mp4)
 
 - **📊 Repository Status:** ![Repo Size](https://img.shields.io/github/repo-size/Anusuya-Ramu/Sudoku-Arena) ![Stars](https://img.shields.io/github/stars/Anusuya-Ramu/Sudoku-Arena)
 - **🔗 Links:** [GitHub Repository](https://github.com/Anusuya-Ramu/Sudoku-Arena)
@@ -128,7 +123,7 @@
   <img src="asserts/watchsmith-preview2.jpeg" width="48%" alt="Watchsmith Preview 2"/>
 </p>
 <p align="center">
-  <img src="assets/watchsmith-preview3.jpeg" width="48%" alt="Watchsmith Preview 3"/>
+  <img src="asserts/watchsmith-preview3.jpeg" width="48%" alt="Watchsmith Preview 3"/>
 </p>
 
 - **📊 Repository Status:** ![Repo Size](https://img.shields.io/github/repo-size/Anusuya-Ramu/Watch_Mini_Project) ![Stars](https://img.shields.io/github/stars/Anusuya-Ramu/Watch_Mini_Project)
