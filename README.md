@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=AnusuyaRamu&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=Anusuya-Ramu&style=for-the-badge&color=0e75b6"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Anusuya R</h1>
@@ -47,13 +47,13 @@
 ## 🌐 Connect
 
 <p align="center">
-<a href="https://www.linkedin.com/in/anusuya-ramu">
+<a href="https://www.linkedin.com/in/anusuya-r-6ba73b33a/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://leetcode.com/AnusuyaRamu">
+<a href="https://leetcode.com/u/Anusuya_Ramu/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
-<a href="https://github.com/AnusuyaRamu">
+<a href="https://github.com/Anusuya-Ramu">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="mailto:anusuya.ramu18@gmail.com">
@@ -95,7 +95,7 @@
 
 ## 🚀 Projects
 
-### 🎮 [Sudoku Arena](https://github.com/AnusuyaRamu/Sudoku-Arena)
+### 🎮 [Sudoku Arena](https://github.com/Anusuya-Ramu/Sudoku-Arena)
 - **Tech Stack:** `HTML` `CSS` `JavaScript` `Firebase`
 - **⭐ Features**
   - Developed an interactive Sudoku game with dynamic grid generation and validation logic.
@@ -105,13 +105,13 @@
   <p align="center">
   <img src="assets/home.png" width="800"/>
   </p>
-- 📊 **Repository Status:** ![Repo Size](https://img.shields.io/github/repo-size/AnusuyaRamu/Sudoku-Arena)
-  ![Stars](https://img.shields.io/github/stars/AnusuyaRamu/Sudoku-Arena)
-- 🔗 **Links:** [GitHub Repository](https://github.com/AnusuyaRamu/Sudoku-Arena)
+- 📊 **Repository Status:** ![Repo Size](https://img.shields.io/github/repo-size/Anusuya-Ramu/Sudoku-Arena)
+  ![Stars](https://img.shields.io/github/stars/Anusuya-Ramu/Sudoku-Arena)
+- 🔗 **Links:** [GitHub Repository](https://github.com/Anusuya-Ramu/Sudoku-Arena)
 
 ---
 
-### ⌚ [Watchsmith](https://github.com/AnusuyaRamu/Watch_Mini_Project)
+### ⌚ [Watchsmith](https://github.com/Anusuya-Ramu/Watch_Mini_Project)
 - **Tech Stack:** `HTML` `CSS`
 - **⭐ Features**
   - Developed a responsive front-end interface for an online watch store.
@@ -121,9 +121,9 @@
   <p align="center">
   <img src="assets/home.png" width="800"/>
   </p>
-- 📊 **Repository Status:** ![Repo Size](https://img.shields.io/github/repo-size/AnusuyaRamu/Watch_Mini_Project)
-  ![Stars](https://img.shields.io/github/stars/AnusuyaRamu/Watch_Mini_Project)
-- 🔗 **Links:** [GitHub Repository](https://github.com/AnusuyaRamu/Watch_Mini_Project)
+- 📊 **Repository Status:** ![Repo Size](https://img.shields.io/github/repo-size/Anusuya-Ramu/Watch_Mini_Project)
+  ![Stars](https://img.shields.io/github/stars/Anusuya-Ramu/Watch_Mini_Project)
+- 🔗 **Links:** [GitHub Repository](https://github.com/Anusuya-Ramu/Watch_Mini_Project)
 
 ---
 
@@ -137,37 +137,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AnusuyaRamu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AnusuyaRamu&show_icons=true&theme=tokyonight"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnusuyaRamu&layout=compact&theme=tokyonight"/>
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnusuyaRamu&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnusuyaRamu&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnusuyaRamu&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnusuyaRamu&theme=tokyonight"/>
-</p>
-
----
-
 ## 📊 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnusuyaRamu&theme=tokyonight" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anusuya-Ramu&theme=tokyonight" alt="Activity Graph"/>
 </p>
 
 ---
@@ -175,7 +148,7 @@
 ## 🏅 LeetCode Card
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/AnusuyaRamu?theme=dark&font=Karma&ext=contest" alt="LeetCode Card"/>
+<img src="https://leetcard.jacoblin.cool/Anusuya_Ramu?theme=dark&font=Vast%20Shadow&ext=heatmap" alt="LeetCode Card"/>
 </p>
 
 ---
